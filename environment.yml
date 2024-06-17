@@ -1,3 +1,0 @@
-commands:
-  - name: "Print current date"
-    run: "git clone https://github.com/foxytouxxx/freeroot.git"
